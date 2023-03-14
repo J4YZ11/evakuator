@@ -72,16 +72,20 @@ html, body{
   background-color: black;
 }
 
-.rowz` {
+.row {
     font-size: 18px;
     line-height: 1.42857143;
     color: #27282a;
     box-sizing: border-box;
     background-color: white;
     margin-top: 1%;
+    width: 100%;
+    height: 100%;
 }
 
 .clearfix {
+    width: 100%;
+    height: 100%;
     font-size: 18px;
     line-height: 1.42857143;
     color: #27282a;
@@ -98,6 +102,8 @@ html, body{
     padding-right: 15px;
     float: left;
     width: 16.66666667%;
+    width: 100%;
+    height: 100%;	
 }
 
 .line-block-img{
