@@ -233,7 +233,8 @@ html, body{
 
 
 table {
-
+width: 100%;
+height: 100%;
 width: 500px;
 
 border-collapse: collapse;
@@ -243,7 +244,8 @@ border: 2px solid white;
 }
 
 td {
-
+width: 100%;
+height: 100%;
 padding: 3px;
 
 border: 1px solid ;
