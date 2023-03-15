@@ -72,20 +72,16 @@ html, body{
   background-color: black;
 }
 
-.row {
+.rowz` {
     font-size: 18px;
     line-height: 1.42857143;
     color: #27282a;
     box-sizing: border-box;
     background-color: white;
     margin-top: 1%;
-    width: 100%;
-    height: 100%;
 }
 
 .clearfix {
-    width: 100%;
-    height: 100%;
     font-size: 18px;
     line-height: 1.42857143;
     color: #27282a;
@@ -102,8 +98,6 @@ html, body{
     padding-right: 15px;
     float: left;
     width: 16.66666667%;
-    width: 100%;
-    height: 100%;	
 }
 
 .line-block-img{
@@ -227,33 +221,36 @@ html, body{
 }
 
 .table-responsive{
-	text-align: center;
+    text-align: center;
 }
 
 
 table {
-width: 100%;
-height: 100%;
-width: 500px;
 
-border-collapse: collapse;
+    width: 700px;
 
-border: 2px solid white;
+
+    border-collapse: collapse;
+
+    border: 2px ;
+    text-align: center;
 
 }
 
 td {
-width: 100%;
-height: 100%;
-padding: 3px;
 
-border: 1px solid ;
 
-text-align: center;
+    padding: 3px;
+
+    border: 1px solid ;
+
+    text-align: center;
 
 }
 
 .textps{
+    margin-left: 40%;
+    margin-right: 40%;
     text-align: center  ;
 }
 
